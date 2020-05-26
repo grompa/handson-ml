@@ -1,1 +1,8 @@
 Add points as you make progress
+
+https://numpy.org/doc/stable/user/quickstart.html
+array, zeros, zeros_like, ones, ones_like, empty, empty_like, arange, linspace, numpy.random.RandomState.rand, numpy.random.RandomState.randn, fromfunction, fromfile
+
+
+
+
