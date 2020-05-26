@@ -8,6 +8,6 @@ corrcoef, cov, cross, cumprod, cumsum, diff, dot, floor, inner, inv, lexsort,
 max, maximum, mean, median, min, minimum, nonzero, outer, prod, re, round, sort,
 std, sum, trace, transpose, var, vdot, vectorize, where
 Indexing, Indexing (reference), newaxis, ndenumerate, indices
-
+ndarray.shape, reshape, resize, ravel
 
 
