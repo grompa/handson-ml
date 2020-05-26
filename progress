@@ -10,4 +10,7 @@ std, sum, trace, transpose, var, vdot, vectorize, where
 Indexing, Indexing (reference), newaxis, ndenumerate, indices
 ndarray.shape, reshape, resize, ravel
 
+Do this section again properly:
+https://numpy.org/doc/stable/user/quickstart.html#shape-manipulation
+
 
